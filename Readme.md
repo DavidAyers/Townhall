@@ -9,4 +9,4 @@
 4.  Enter your database credentials in your  `.env`  file.
 5.  `php artisan migrate`
 6.  Run server `php artisan serve`  or use Laravel Valet
-7.  Visit localhost:8000 in your browser
+7.  Visit http://127.0.0.1:8000 in your browser
